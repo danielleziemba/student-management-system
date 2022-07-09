@@ -8,3 +8,6 @@ based on MVC design pattern and using test-driven development strategies.
 Systems and tools used include: IntelliJ, SpringBoot, Thymeleaf, JPA, Lombok, ...
 
 ### Features
+* all CRUD operations present 
+* UI developed with thymeleaf and bootstrap CSS 
+* utilizes one object database
